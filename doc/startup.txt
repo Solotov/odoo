@@ -1,0 +1,5 @@
+primero comprueba :
+    > version de python
+        > 3.8
+ejecuta :
+    > python odoo-bin -d master -i base -c debian/odoo.conf
